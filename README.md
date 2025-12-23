@@ -20,17 +20,17 @@ The goal is to improve UI skills, layout understanding, and Flutter widget maste
 ## 📅 Progress Tracker (30 Days)
 
 ### ✅ Day 1 – Basic UI Layout
-![Day 1 UI](assets/day1.jpg)
+![Day 1 UI](assests/day1.jpg)
 
 ---
 
 ### ✅ Day 2 – Login Screen Design
-![Day 2 UI](assets/day2.jpeg)
+![Day 2 UI](assests/day2.jpeg)
 
 ---
 
 ### ✅ Day 3 – Profile Screen UI
-![Day 3 UI](assets/day3.jpeg)
+![Day 3 UI](assests/day3.jpeg)
 
 
 ---
