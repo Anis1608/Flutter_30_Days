@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'Day1.dart';
+import 'package:flutter_practice/day2.dart';
+import 'package:flutter_practice/day3.dart';
+// import 'Day1.dart';
 
 void main() {
   runApp(const MyApp());
@@ -32,7 +34,9 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
       // home: const MyHomePage(title: 'Flutter Demo Home Page'),
-      home: const Day1(),
+      // home: const Day1(),
+      // home: const Day2(),
+      home: const Day3(),
     );
   }
 }
