@@ -30,7 +30,12 @@ The goal is to improve UI skills, layout understanding, and Flutter widget maste
 ---
 
 ### ✅ Day 3 – Profile Screen UI
-![Day 3 UI](assests/day3.jpeg)
+![Day 3 UI](assests/Day3.jpeg)
+
+---
+
+### ✅ Day 4 – Simple Navbar 
+![Day 3 UI](assests/day4.jpeg)
 
 
 ---
