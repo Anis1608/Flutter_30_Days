@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_practice/day2.dart';
 import 'package:flutter_practice/day3.dart';
 import 'package:flutter_practice/day4.dart';
+import 'package:flutter_practice/day5.dart';
+import 'package:flutter_practice/day6.dart';
 // import 'Day1.dart';
 
 void main() {
@@ -38,7 +40,9 @@ class MyApp extends StatelessWidget {
       // home: const Day1(),
       // home: const Day2(),
       // home: const Day3(),
-      home: const Day4(),
+      // home: const Day4(),
+      // home: const Day5(),
+      home: const Day6(),
     );
   }
 }
